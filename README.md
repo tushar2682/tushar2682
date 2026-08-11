@@ -1,10 +1,10 @@
-# 💫 Hi 👋, I'm   Tushar Uniyal
-**A passionate Full stack developer MERN and Artificial Intelligence and OPENCV**
+# 💫 Hi 👋, I'm Tushar Uniyal
+**A passionate Full-Stack (MERN) Developer, with focus on Artificial Intelligence and Computer Vision (OpenCV)**
 
 Email Me 👉 ✉️ **tuniyal158@gmail.com**
 
-- 🔭 **I’m currently working on:** Trading Bot with flask(backend) and vite+react+daisyui(frontend)
-- 🌱 **I’m currently learning:** Deveops and Artificial Intelligence
+- 🔭 **I’m currently working on:** AI Fraud Detection & Analytic Platform, and a Trading Bot with Flask (backend) and Vite + React + DaisyUI (frontend)
+- 🌱 **I’m currently learning:** DevOps and Artificial Intelligence
 
 <div align="center">
   <img height="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl5ajNxNzRvOWJmdTFqYXZpeG1pNGV2eXUzb2R2Mjg4cXZud2VvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
